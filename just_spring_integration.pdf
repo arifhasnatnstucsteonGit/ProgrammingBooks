@@ -1,0 +1,183 @@
+<html>
+<head>
+  <title>Just Spring Integration - Free Download eBook - pdf</title>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+  <meta name="description" content="Get started with Spring Integration, the lightweight Java-based framework that makes designing and developing message-oriented architectures a breeze. Through numerous examples, you'll learn how to use this open source framework's basic building bloc">
+  <meta name="keywords" content="just, spring, integration, it, book, ebook, free, download, library, lib, books, ebooks, read, online, pdf, direct">
+  <link href="/css/main.min.css" rel="stylesheet" type="text/css">
+  <link href="/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link href="http://feeds.feedburner.com/IT-eBooks" rel="alternate" type="application/rss+xml" title="Free download IT eBooks">
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-2099362-8']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  
+  <script type="text/javascript" async="async" src="http://apis.google.com/js/plusone.js"></script>
+  <script type="text/javascript" src="/js/jquery.js" async="async"></script>
+  
+  <script type="text/javascript" src="/js/script.js" async="async"></script>
+  <link rel="search" href="/opensearch.xml" title="IT eBooks" type="application/opensearchdescription+xml">
+</head>
+
+<body>
+
+
+
+<table width="1000" border="0" align="center" class="main" >
+<tr><td>
+<!-- Head -->
+
+<div style="width:250px; float:left;">
+<div class="head">
+
+<h2>IT eBooks</h2>
+<a href="/" class="big" title="IT eBooks">IT eBooks</a><br>
+<b>Free Download IT eBooks</b>
+</div>
+</div>
+
+<div style="width:700px; float:right; margin-right:20px;">
+<form action="/search/" method="GET" id="searchform">
+  <table align="center" style="font-size:12px">
+  <tr>
+     <td colspan="12"><input type="text" name="q" id="q" class="q" value=""></td>
+     <td><input type="submit" value=" Search "> </td></tr>
+
+  <tr>
+  <td width="130"><b>Search eBook by:</b></td>
+  <td width="15" align="center"><input type="radio" id="type" name="type" value="title" ></td>
+  <td width="40">Title</td>
+  <td width="15" align="center"><input type="radio" id="type" name="type" value="author" ></td>
+  <td width="55">Author</td>
+  <td width="15" align="center"><input type="radio" id="type" name="type" value="isbn" ></td>
+  <td width="40">ISBN</td>
+  <td width="15" align="center"><input type="radio" name="type" value="google" checked></td>
+  <td width="60" style="font-size:13px;">
+  <b><font color="#0036db">G</font><font color="#bd0e27">o</font><font color="#f08f00">o</font><font color="#0036db">g</font><font color="#009b08">l</font><font color="#bd0e27">e</font></b></td>  
+  <td width="15" align="center"><input type="radio" name="type" value="amazon"></td>
+  <td width="40" style="font-size:13px;"><b>Amazon</b></td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  </tr></table>
+</form>
+</div>
+
+<!-- /Search -->
+</td></tr>
+<tr><td class="top">
+
+<div itemscope itemtype="http://schema.org/Book">
+<h1 itemprop="name">Just Spring Integration</h1>
+<h3>A Lightweight Introduction to Spring Integration</h3><br>
+
+ <table width="1000" align="center" class="ebook_view">
+ <tr valign="top">
+ 	<td width="250">
+ 	<img src="/images/ebooks/3/just_spring_integration.jpg" alt="Just Spring Integration" title="Just Spring Integration" width="200" class="img" itemprop="image" />
+	<div class="google_view">
+	<script type="text/javascript" src="http://books.google.com/books/previewlib.js"></script>
+	<script type="text/javascript">
+	GBS_insertPreviewButtonPopup('ISBN:9781449316082');
+	</script>
+	</div>
+	
+	<div class="qrcode">
+	<img src="http://chart.apis.google.com/chart?cht=qr&chs=150x150&chl=http://it-ebooks.info/book/827/" alt="QR code - Just Spring Integration" />
+	<br>
+	QR Code
+	</div>
+		
+ 	</td>
+	<td class="justify link">
+     <h4>Book Description</h4>
+     <span itemprop="description">Get started with Spring Integration, the lightweight Java-based <a href="/tag/framework/" title="Framework eBooks">framework</a> that makes designing and developing message-oriented architectures a breeze. Through numerous examples, you'll learn how to use this open source framework's <a href="/tag/basic/" title="Basic eBooks">basic</a> building blocks to work with both inter - and intra-application <a href="/tag/programming/" title="Programming eBooks">programming</a> models.<br />
+<br />
+If you're a Java developer familiar with the Spring framework and want to advance your skills with Enterprise Application Integration (EAI) patterns, and messaging systems in particular, this book is ideal.</span>
+
+		<table width="100%">
+		<tr><td colspan="2"><h4>Book Details</h4></td></tr>
+		<tr><td width="150">Publisher:</td><td><b><a href="/publisher/3/" title="O'Reilly Media eBooks" itemprop="publisher">O'Reilly Media</a></b></td></tr>
+		<tr><td>By:</td><td><b itemprop="author" style="display:none;">Madhusudhan Konda</b><b><a href='/author/907/' title='Madhusudhan Konda'>Madhusudhan Konda</a></b></td></tr>
+		<tr><td>ISBN:</td><td><b itemprop="isbn">978-1-4493-1608-2</b></td></tr>
+		<tr><td>Year:</td><td><b itemprop="datePublished">2012</b></td></tr>              
+		<tr><td>Pages:</td><td><b itemprop="numberOfPages">100</b></td></tr>
+		<tr><td>Language:</td><td><b itemprop="inLanguage">English</b></td></tr>
+		<tr><td>File size:</td><td><b>4.7 MB</b></td></tr>
+		<tr><td>File format:</td><td><b itemprop="bookFormat">PDF</b></td></tr>
+		<tr><td colspan="2"><h4>eBook</h4></td></tr>
+		<tr><td>Download:</td><td>
+<a id="dl" href="/go.php?id=827-1368589233-cce8e26af1af8c7e21a6388e8292c220" rel="nofollow">Free</a>		<script>$("#dl").text("Just Spring Integration")</script>
+		</td></tr>
+		<tr><td colspan="2"><h4>Paper Book</h4></td></tr>
+		<tr><td>Buy:</td><td><a href="http://www.amazon.com/s/?url=search-alias=aps&tag=iteb0b-20&link_code=wql&_encoding=UTF-8&field-keywords=978-1-4493-1608-2" target="_blank" rel="nofollow">Just Spring Integration</a></td></tr>
+		
+		<tr><td colspan="2"><h4>Online Book</h4></td></tr>
+		<tr><td>Read:</td><td><a href="/read/827/" >Just Spring Integration</a></td></tr>
+		
+		<tr><td colspan="2"><br><br></td></tr>
+		<tr><td colspan="2">
+		
+		<div class="soc1"><g:plusone size="medium"></g:plusone></div>
+		<div class="soc2"><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="ITeBooks">Tweet</a><script async type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div>
+        <div class="soc3"><div id="fb-root"></div><script async src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="" send="false" layout="button_count" width="450" show_faces="true" action="like" font="tahoma"></fb:like></div>
+
+		</td></tr>
+
+  <tr><td colspan="2"><br><br></td></tr>
+  <tr><td colspan="2"><h4>Related Books</h4></td></tr>
+  <tr><td colspan="2">
+     <table><tr valign="top" align="center">
+<td width='166'><a href='/book/475/' title='Just Spring' style='border:0'><img src='/images/ebooks/3/just_spring.jpg' alt='Just Spring' width='150' class='border'></a><br>
+     <a href='/book/475/' title='Just Spring' style='border:0'>Just Spring</a>
+     </td><td width='166'><a href='/book/1172/' title='Spring Integration in Action' style='border:0'><img src='/images/ebooks/5/spring_integration_in_action.jpg' alt='Spring Integration in Action' width='150' class='border'></a><br>
+     <a href='/book/1172/' title='Spring Integration in Action' style='border:0'>Spring Integration in Action</a>
+     </td><td width='166'><a href='/book/1609/' title='Pro Spring Integration' style='border:0'><img src='/images/ebooks/6/pro_spring_integration.jpg' alt='Pro Spring Integration' width='150' class='border'></a><br>
+     <a href='/book/1609/' title='Pro Spring Integration' style='border:0'>Pro Spring Integration</a>
+     </td>   </tr></table>
+  </td></tr>
+		
+		</table>
+
+	</td>
+	<td width="250" align="right">
+<div id="socst">
+<a href="http://feeds.feedburner.com/IT-eBooks" target="_blank" title="RSS feed"><img src="/images/rss.png" border="0"></a>
+<a href="http://www.facebook.com/ITeBooks" target="_blank" title="Facebook"><img src="/images/facebook.png" border="0" alt="Facebook"></a>
+<a href="http://www.twitter.com/ITeBooks" target="_blank" title="Twitter"><img src="/images/twitter.png" border="0" alt="Twitter"></a>
+</div>	
+<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" id="feed"><p><b>Subscribe via email</b></p><p><input type="text" style="width:175px" name="email" id="email" value="enter your email address" /></p><input type="hidden" value="IT-eBooks" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="Subscribe" /><p></p></form>
+<script type="text/javascript" src="/js/feedburner.js"></script>
+<script type="text/javascript">
+<!--
+google_ad_client = "ca-pub-3490904183682637";
+google_ad_slot = "7310965361";
+google_ad_width = 200;
+google_ad_height = 200;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
+	</td>
+ </tr>
+
+
+
+ </table>
+ </div>
+</td></tr>
+<tr><td align="center" style="padding-top:20px; padding-bottom:20px;">
+<small style="font-size:11px; color:#555;">Reproduction of site books is authorized only for informative purposes and strictly for personal, private use.</small><br>
+<b class="copy">Only Direct Download</b><br>
+<a href="http://it-ebooks.info/" title="Free eBooks" class="copy">IT eBooks</a> <b class="copy">&copy; 2011-2013</b><br>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank"><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="RHUKJDRDEAPF6"><input type="image" src="/images/donate.gif" border="0" name="submit"><img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"></form>
+</td></tr>
+</table>
+
+<!-- C: 0.000152 --></body>
+</html>
